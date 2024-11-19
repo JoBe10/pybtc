@@ -19,6 +19,7 @@ Ensure you have Python 3.7+ installed. You can check your Python version using:
 
 ```bash
 python --version
+```bash
 
 ### Installation
 
