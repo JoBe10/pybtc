@@ -23,14 +23,20 @@ python --version
 
 ### Installation
 
-Clone the repository
+Clone the repository:
+```bash
 git clone https://github.com/JoBe10/pybtc.git
+```
 
 Navigate to the project directory:
+```bash
 cd pybtc
+```
 
 Install the required dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 ## Using the code
 Each directory within the parent directory (e.g. the "cryptography" directory) contains jupyter notebook that explain everything and can be used to interactively explore the code.
