@@ -39,4 +39,4 @@ pip install -r requirements.txt
 ```
 
 ## Using the code
-Each directory within the parent directory (e.g. the "cryptography" directory) contains jupyter notebook that explain everything and can be used to interactively explore the code.
+Each directory within the parent directory (e.g. the "cryptography" directory) contains jupyter notebooks that explain everything and can be used to interactively explore the code.
